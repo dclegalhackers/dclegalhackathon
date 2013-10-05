@@ -1,3 +1,3 @@
 DC Tech Events
 
-* [google](http://www.google.com)
+* Example: [Google](http://www.google.com)
