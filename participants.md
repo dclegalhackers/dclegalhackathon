@@ -10,6 +10,6 @@ Here are the particpants:
 
 * [morrissinger](http://github.com/morrissinger)
 
-* [konklone](httpe://github.com/konklone)
+* [konklone](http://github.com/konklone)
 
 
