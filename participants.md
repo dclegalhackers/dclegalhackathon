@@ -1,15 +1,15 @@
 Here are the particpants: 
 
-[rebeccawilliams](http://github.com/rebeccawilliams)
+* [rebeccawilliams](http://github.com/rebeccawilliams)
 
-[jamesondempsey](http://github.com/jamesondempsey)
+* [jamesondempsey](http://github.com/jamesondempsey)
 
-[benbalter](http://github.com/benbalter)
+* [adelevie](http://github.com/adelevie)
 
-[adelevie](http://github.com/adelevie)
+* [benbalter](http://github.com/benbalter)
 
-[morrissinger](http://github.com/morrissinger)
+* [morrissinger](http://github.com/morrissinger)
 
-[konklone](httpe://github.com/konklone)
+* [konklone](httpe://github.com/konklone)
 
 
