@@ -32,3 +32,5 @@ DC Tech Events
 * [Ladys who Code](http://www.meetup.com/Ladies-Who-Code-Washington-DC/)
 * [DC PyLadies](http://www.meetup.com/dc-pyladies/)
 * [Federal Communications Bar Association](http://www.fcba.org/events/)
+* [D.C. Bar Intellectual Property Law Section Events](http://www.dcbar.org/for_lawyers/events/search_results.cfm?filters=sections&sectionID=1400section)
+* 
