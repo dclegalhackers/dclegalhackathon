@@ -33,4 +33,6 @@ DC Tech Events
 * [DC PyLadies](http://www.meetup.com/dc-pyladies/)
 * [Federal Communications Bar Association](http://www.fcba.org/events/)
 * [D.C. Bar Intellectual Property Law Section Events](http://www.dcbar.org/for_lawyers/events/search_results.cfm?filters=sections&sectionID=1400section)
-* 
+* [D.C. Bar Courts, Laywers and Administration of Justice Section Events](http://www.dcbar.org/for_lawyers/sections/courts_lawyers_and_the_administration_of_justice/index.cfm)
+* [D.C. Bar District of Columbia Affairs Section](http://www.dcbar.org/for_lawyers/sections/district_of_columbia_affairs/index.cfm)
+* [Technology, Academics, Policy](https://www.techpolicy.com/Events.aspx)
