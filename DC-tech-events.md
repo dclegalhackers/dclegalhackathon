@@ -1,4 +1,4 @@
 DC Tech Events
 
-* (google)[www.google.com]
+* [google](www.google.com)
 * 
