@@ -12,4 +12,3 @@ Here are the particpants:
 
 * [konklone](http://github.com/konklone)
 
-
