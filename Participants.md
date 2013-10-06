@@ -12,7 +12,25 @@ Here are the particpants:
 
 * [konklone](http://github.com/konklone)
 
-* [leahbannon](http://gitub.com/leahbannon)
+* [leahbannon](http://github.com/leahbannon)
 
+* [tmcw](http://github.com/leahbannon)
 
+* [atkinswj](http://github.com/atkinswj)
+
+* [newmajoe](http://github.com/newmajoe)
+
+* [ZakkMan](http://github.com/ZakkMan)
+
+* [cmbirk](http://github.com/cmbirk)
+
+* [morrissinger](http://github.com/morrissinger)
+
+* [traviskorte](http://github.com/traviskorte)
+
+* [vzvenyach](http://github.com/vzvenyach)
+
+* [jposi](http://github.com/jposi)
+
+* [keith5000](http://github.com/keith5000)
 
