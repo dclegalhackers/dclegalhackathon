@@ -10,9 +10,4 @@ To view a list of proposed changes, click on the ["Pull Requests"](https://githu
 
 If you have a question about anything here, click on the ["Issues"](https://github.com/dclegalhackers/ideas/issues) icon (also on the right side of the page). It's good etiquette to browse through the Issues before you post your own--someone else may have already solved your problem!
 
-More resources about GitHub! 
-
-* [a Glossary!](https://help.github.com/articles/github-glossary)
-* [Ben's presentation!](http://ben.balter.com/open-sourcing-government/#/git)
-* [Code School!](http://try.github.io/levels/1/challenges/1)
-* [or JUST ASK BEN!](https://github.com/benbalter/feedback)
+[More resources about GitHub.](http://dclegalhackers.github.io/resources/)
