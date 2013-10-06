@@ -8,6 +8,8 @@ Here are the particpants:
 
 * [benbalter](http://github.com/benbalter)
 
+* [seamuskraft](http://github.com/seamuskraft)
+
 * [morrissinger](http://github.com/morrissinger)
 
 * [konklone](http://github.com/konklone)
