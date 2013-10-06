@@ -1,4 +1,4 @@
-Here are the particpants: 
+Here are the participants: 
 
 * [rebeccawilliams](http://github.com/rebeccawilliams)
 
