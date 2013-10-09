@@ -42,3 +42,6 @@ Here are the participants:
 
 * [joshdata](https://github.com/JoshData)
 
+* [errolgrannum](https://github.com/errolgrannum)
+
+* [krues8dr](https://github.com/krues8dr)
