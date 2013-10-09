@@ -1,38 +1,44 @@
 Here are the participants: 
 
-* [rebeccawilliams](http://github.com/rebeccawilliams)
+* [rebeccawilliams](https://github.com/rebeccawilliams)
 
-* [jamesondempsey](http://github.com/jamesondempsey)
+* [jamesondempsey](https://github.com/jamesondempsey)
 
-* [adelevie](http://github.com/adelevie)
+* [adelevie](https://github.com/adelevie)
 
-* [benbalter](http://github.com/benbalter)
+* [benbalter](https://github.com/benbalter)
 
-* [seamuskraft](http://github.com/seamuskraft)
+* [seamuskraft](https://github.com/seamuskraft)
 
-* [morrissinger](http://github.com/morrissinger)
+* [morrissinger](https://github.com/morrissinger)
 
-* [konklone](http://github.com/konklone)
+* [konklone](https://github.com/konklone)
 
-* [leahbannon](http://github.com/leahbannon)
+* [leahbannon](https://github.com/leahbannon)
 
-* [tmcw](http://github.com/leahbannon)
+* [tmcw](https://github.com/leahbannon)
 
-* [atkinswj](http://github.com/atkinswj)
+* [atkinswj](https://github.com/atkinswj)
 
-* [newmajoe](http://github.com/newmajoe)
+* [newmajoe](https://github.com/newmajoe)
 
-* [ZakkMan](http://github.com/ZakkMan)
+* [ZakkMan](https://github.com/ZakkMan)
 
-* [cmbirk](http://github.com/cmbirk)
+* [cmbirk](https://github.com/cmbirk)
 
-* [morrissinger](http://github.com/morrissinger)
+* [morrissinger](https://github.com/morrissinger)
 
-* [traviskorte](http://github.com/traviskorte)
+* [traviskorte](https://github.com/traviskorte)
 
-* [vzvenyach](http://github.com/vzvenyach)
+* [vzvenyach](https://github.com/vzvenyach)
 
-* [jposi](http://github.com/jposi)
+* [jposi](https://github.com/jposi)
 
-* [keith5000](http://github.com/keith5000)
+* [keith5000](https://github.com/keith5000)
+
+* [lindsdayyoung](https://github.com/lindsayyoung)
+
+* [stvnrlly](https://github.com/stvnrlly)
+
+* [joshdata](https://github.com/JoshData)
 
