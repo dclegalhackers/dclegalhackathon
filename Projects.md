@@ -7,5 +7,6 @@ Or link to your repo here:
 * [DC Procurement Scraping](https://github.com/vzvenyach/dc-contracts)
 * [US Glossary Annotation project](https://github.com/unitedstates/glossary)
 * [new DC Code Parsing](https://github.com/openlawdc/dc-decoded)
+* [Legal Cititaton Linker in Markdown](https://github.com/adelevie/citation-linker)
 * [DC Legal Hackers Website building](https://github.com/dclegalhackers/dclegalhackers.github.io)
 
