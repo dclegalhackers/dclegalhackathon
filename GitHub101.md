@@ -9,5 +9,3 @@ To view a log of changes to this repository, click on ["commits"](https://github
 To view a list of proposed changes, click on the ["Pull Requests"](https://github.com/dclegalhackers/ideas/pulls) icon (it's on the right side of the page).
 
 If you have a question about anything here, click on the ["Issues"](https://github.com/dclegalhackers/ideas/issues) icon (also on the right side of the page). It's good etiquette to browse through the Issues before you post your own--someone else may have already solved your problem!
-
-[More resources about GitHub.](http://dclegalhackers.github.io/resources/)
